@@ -1,5 +1,5 @@
 {
-  "name": "sorena-generator",
+  "name": "generator-sorena",
   "version": "0.1.0",
   "description": "The generator for nodejs backend with databse",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sorena-co/nodejs-generator/issues"
   },
-  "homepage": "https://github.com/sorena-co/nodejs-generator#readme"
+  "homepage": "https://github.com/sorena-co/nodejs-generator#readme",
+  "dependencies": {
+    "yeoman-generator": "^4.11.0"
+  }
 }
