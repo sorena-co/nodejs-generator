@@ -1,0 +1,23 @@
+{
+  "name": "sorena-generator",
+  "version": "0.1.0",
+  "description": "The generator for nodejs backend with databse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorena-co/nodejs-generator.git"
+  },
+  "keywords": [
+    "nodejs",
+    "nodejs-generator"
+  ],
+  "author": "Mohammad Jalili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorena-co/nodejs-generator/issues"
+  },
+  "homepage": "https://github.com/sorena-co/nodejs-generator#readme"
+}
